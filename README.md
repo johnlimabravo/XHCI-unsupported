@@ -1,2 +1,2 @@
-# XHCI-unsupported
+# XHCI-unsupported by RehabMan
 XHCI-unsupported.kext
